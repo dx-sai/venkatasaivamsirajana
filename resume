@@ -1,0 +1,109 @@
+Venkata Sai Vamsi Rajana
+	Denver, CO	|	(720) 440-2662	|	vamsiraj7826@gmail.com	|	linkedin.com/in/venkatasaivamsirajana
+PROFESSIONAL SUMMARY
+ 
+•	Java Full Stack Developer with 6+ years of professional experience in development, design, testing, deployment, and maintenance of enterprise applications using Java/J2EE technologies.
+•	Strong experience in building scalable, secure, and high-performance applications using Java 8/11/17, Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, Microservices, RESTful Web Services, and modern frontend frameworks.
+•	Extensive experience in developing web-based applications using HTML5, CSS3, Bootstrap, JavaScript, TypeScript, React.js, Redux, Angular, and integrating user interfaces with backend services and APIs.
+•	Good knowledge of Core Java, OOP concepts, Collections Framework, Exception Handling, Multithreading, Concurrency, JDBC, Servlets, JSP, and widely used design patterns such as MVC, DAO, DTO, Singleton, Factory, and Builder.
+•	Hands-on experience in the Spring ecosystem including Spring IOC, Spring MVC, Spring Boot, Spring AOP, Spring JDBC, Spring Data JPA, Spring Security, and Spring Batch for enterprise application development.
+•	Strong experience in building Spring Boot based Microservices for distributed systems, including API design, service orchestration, validation, exception handling, integration, and deployment support.
+•	Expertise in implementing RESTful and SOAP Web Services for system-to-system communication and integrating asynchronous processing through Kafka, JMS, IBM MQ, and ActiveMQ.
+•	Experience in using Hibernate and Spring Data JPA for ORM implementation, entity mapping, transactional processing, query optimization, and annotation-based persistence design.
+•	Good experience working with relational and NoSQL databases including Oracle, PostgreSQL, MySQL, SQL Server, DB2, MongoDB, and Cassandra, with strong SQL skills involving joins, views, stored procedures, functions, and triggers.
+•	Experience in developing cloud-ready applications and supporting deployments on AWS and Azure, along with containerization and orchestration using Docker and Kubernetes.
+•	Proficient in build, release, and CI/CD processes using Maven, Gradle, Jenkins, Git, GitHub, and deployment automation best practices.
+•	Strong understanding of SDLC, Agile Scrum methodology, requirement analysis, technical design, coding, unit testing, integration testing, deployment, debugging, and production support.
+•	Experience in writing test cases using JUnit and Mockito, using tools such as Postman, Swagger/OpenAPI, and Log4j for API validation, service testing, and troubleshooting.
+•	Adept at working with business analysts, product owners, QA teams, architects, and DevOps teams to deliver robust, maintainable, and business-critical enterprise solutions.
+TECHNICAL SKILLS
+ 
+Programming Languages: Java, SQL, PL/SQL, JavaScript, TypeScript, Python, HTML5, CSS3, Unix Shell Scripting
+Java/J2EE Technologies: Core Java, J2EE, JDBC, JSP, Servlets, JSTL, Java Beans, POJOs, Collections, Multithreading,
+Concurrency, Exception Handling, Data Structures, Algorithms, Design Patterns
+Frameworks: Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Spring JDBC, Spring AOP, Spring IOC, Spring Batch, Hibernate, Struts, JUnit, Mockito
+Frontend Technologies: React.js, Redux, Angular, JavaScript, TypeScript, HTML5, CSS3, Bootstrap, jQuery, AJAX, JSON
+Web Services & APIs: RESTful Web Services, SOAP Web Services, Microservices, Swagger/OpenAPI, Postman
+Messaging & Integration: Apache Kafka, JMS, IBM MQ, ActiveMQ, Apache Camel
+Databases: Oracle, PostgreSQL, MySQL, SQL Server, DB2, MongoDB, Cassandra, SQLite
+Cloud Platforms: Amazon Web Services (AWS), Microsoft Azure
+DevOps / Build Tools: Maven, Gradle, Jenkins, Docker, Kubernetes, Git, GitHub, Vagrant
+Application Servers: Apache Tomcat, JBoss, WebLogic, IBM WebSphere
+Testing Tools: JUnit, Mockito, Postman, Swagger UI
+IDEs & Developer Tools: IntelliJ IDEA, Eclipse, Spring Tool Suite (STS), VS Code, WebStorm, JIRA, Confluence, SonarQube, Log4j, WinSCP, PuTTY
+Methodologies: Agile Scrum, SDLC, TDD, Code Review, Unit Testing, Integration Testing, Production Support
+
+PROFESSIONAL EXPERIENCE
+ 
+Citi	03/2025 – Present
+Java Full Stack Developer
+•	Project Description: Worked on enterprise banking and financial services applications hosted in AWS, focused on customer servicing, internal workflow automation, transaction processing, and secure API-driven integrations across distributed systems.
+•	Designed and developed enterprise-grade microservices for banking and financial applications using Java, Spring Boot, Spring MVC, and Hibernate to support secure, scalable, and high-volume transactional workflows on AWS-based environments.
+•	Built RESTful APIs for account services, internal workflow automation, reporting, and downstream system integrations with strong emphasis on validation, exception handling, and auditability.
+•	Implemented Spring Security, OAuth2/JWT-based authentication, and role-based authorization to secure APIs and protect sensitive internal and customer-facing operations.
+•	Developed reusable service-layer components and business modules using Core Java, Collections, Multithreading, and design patterns to improve maintainability and overall performance.
+•	Worked on event-driven integrations using Kafka and asynchronous messaging patterns to improve decoupling, resiliency, and service-to-service communication across distributed systems in AWS-hosted applications.
+•	Optimized SQL queries, stored procedures, and persistence logic using Hibernate/JPA with Oracle and PostgreSQL for high-volume data processing and low-latency service performance.
+•	Supported CI/CD pipelines using Maven, Jenkins, Docker, and Git for automated builds, deployment readiness, and release consistency across AWS environments.
+•	Participated in Agile ceremonies including sprint planning, technical design discussions, code reviews, defect triage, and release support to ensure quality delivery.
+•	Improved production supportability through enhanced logging, monitoring, root-cause analysis, and code fixes for recurring incidents and performance bottlenecks.
+•	Environment: Java 17, Spring Boot, Spring MVC, Spring Security, Microservices, Hibernate/JPA, REST APIs, Kafka, Oracle, PostgreSQL, Docker, Jenkins, Maven, Git, AWS, Agile
+LJA Engineering, Houston, TX	05/2023 – 02/2025
+Java Developer
+•	Project Description: Developed internal engineering and project management applications deployed on AWS to support project intake, document workflows, approvals, status tracking, and reporting through full stack web solutions.
+•	Developed full stack business applications using Java, Spring Boot, React, and REST APIs to support engineering project workflows, internal operations, and reporting needs in AWS-based application environments.
+•	Built modular backend services for project intake, approvals, task tracking, and document-centric processing using Spring Boot, Spring MVC, and Spring Data JPA.
+•	Designed responsive and reusable UI components using React, JavaScript, HTML5, CSS3, and Bootstrap to improve user experience and consistency across internal applications.
+•	Integrated frontend applications with backend REST services and implemented dynamic client-side behaviors for data retrieval, validation, and workflow execution.
+•	Developed business logic and persistence layers using Hibernate/JPA with Oracle and PostgreSQL, ensuring optimized queries and clean object-relational mappings.
+•	Implemented secure API access, centralized exception handling, and structured logging to improve reliability, debugging, and production support.
+•	Created unit and integration test cases using JUnit and Mockito and participated in code reviews to improve code quality and reduce regression issues.
+•	Used Docker and Jenkins for packaging, build automation, and deployment support across AWS-hosted development, QA, and production environments.
+•	Worked closely with business users, QA teams, and analysts in Agile sprints to convert requirements into production-ready software features.
+•	Environment: Java 11, Spring Boot, Spring MVC, Hibernate/JPA, React.js, JavaScript, HTML5, CSS3, Bootstrap, REST APIs,
+Oracle, PostgreSQL, JUnit, Mockito, Docker, Jenkins, Maven, Git, AWS, Agile
+Ascension	06/2021 – 07/2022
+Java Developer
+•	Project Description: Worked on healthcare applications deployed in Azure supporting provider, member, and operational workflows including claims-related processing, data validation, service integrations, and reporting across enterprise platforms.
+•	Developed and maintained Java/Spring-based healthcare applications to process provider, member, and operational data across integrated enterprise systems running in Azure-supported environments.
+•	Implemented backend modules using Spring Boot, Spring MVC, Hibernate, and JDBC to support claims, enrollment, reconciliation, and business validation workflows.
+•	Built and consumed REST and SOAP web services for secure integration with internal platforms and external healthcare systems.
+•	Enhanced service orchestration and backend business rules for transaction processing, data exchange, and operational reporting requirements.
+•	Worked with Oracle and SQL Server databases to create and optimize SQL queries, stored procedures, and data access components for both batch and online processing.
+•	Improved application reliability through strengthened exception handling, service logging, unit testing, and debugging practices.
+•	Supported release management, incident analysis, bug fixing, and defect triage in Agile teams with developers, testers, and business stakeholders.
+•	Contributed to deployment support, configuration updates, and application maintenance activities across Azure-based environments.
+•	Environment: Java 8, Spring Boot, Spring MVC, Hibernate, JDBC, REST, SOAP, Oracle, SQL Server, JUnit, Maven, Jenkins, Git, Azure, Agile
+Centene, St. Louis, MO	10/2020 – 05/2021
+Java Developer
+•	Project Description: Contributed to healthcare enterprise applications running on Azure, focused on member services, claims processing, case-management workflows, backend integrations, and data-driven business operations.
+•	Developed backend components and service integrations for healthcare applications using Java, Spring Framework, and REST-based communication models in Azure-hosted environments.
+•	Implemented business logic for member, claims, and case-management workflows with focus on application stability, maintainability, and data consistency.
+•	Created service and DAO layers using Spring, Hibernate, and SQL to support transactional processing and business reporting needs.
+•	Worked on API integration, request/response transformation, and backend validations to support interoperability across dependent enterprise systems.
+•	Participated in defect fixing, production support, and performance tuning activities for critical healthcare applications and services.
+•	Collaborated with QA and business teams to validate requirements, support testing efforts, and deliver sprint commitments in Agile methodology.
+•	Assisted in deployment support and environment-specific fixes for applications maintained in Azure-based enterprise setups.
+•	Environment: Java 8, Spring, Spring Boot, Hibernate, REST APIs, SQL, Oracle, JUnit, Maven, Jenkins, Git, Azure, Agile
+Mindmade Technologies, Coimbatore	02/2019 – 09/2020
+Software Engineer
+•	Project Description: Developed business web applications supported in Azure for workflow automation, form-based processing, backend validations, database-driven operations, and responsive user interfaces for client-facing and internal solutions.
+•	Developed and enhanced Java-based web applications using Core Java, Spring MVC, Hibernate, JSP, Servlets, and frontend technologies for business-facing solutions in Azure-supported environments.
+•	Worked on end-to-end feature delivery including requirement analysis, coding, debugging, testing, deployment support, and maintenance in a collaborative environment.
+•	Built backend modules for form processing, workflow logic, validations, and database transactions using Java, JDBC, and SQL.
+•	Developed interactive user interface screens using HTML, CSS, JavaScript, jQuery, and Bootstrap to deliver responsive web applications.
+•	Implemented persistence logic and optimized queries using MySQL and Hibernate/JDBC for improved response times and efficient data access.
+•	Supported bug fixing, code refactoring, build activities, and release support using Maven and Git-based version control processes.
+•	Gained strong hands-on exposure to SDLC, Agile practices, code reviews, and enterprise development standards while working with cross-functional teams.
+•	Assisted with application deployment, maintenance, and issue resolution activities across Azure-based project environments.
+•	Environment: Core Java, Spring MVC, Hibernate, JSP, Servlets, JDBC, JavaScript, jQuery, HTML, CSS, Bootstrap, MySQL, Maven, Git, Azure, Agile
+EDUCATION
+ 
+Master of Science in Computer Science	2024
+University of Colorado Denver
+	Denver, CO
+ADDITIONAL INFORMATION
+ 
+•	Experience working across all phases of software development life cycle including requirement gathering, technical design, coding, testing, deployment, implementation, and production support.
+•	Strong understanding of object-oriented programming, layered architecture, microservices-based design, secure coding practices, and performance optimization.
+•	Comfortable working in Agile/Scrum teams and collaborating effectively with business analysts, product owners, architects, QA engineers, and DevOps teams.

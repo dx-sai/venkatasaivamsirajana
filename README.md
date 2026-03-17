@@ -81,7 +81,7 @@ Worked on enterprise banking and financial services applications focused on cust
 
 - **LinkedIn:** (https://linkedin.com/in/YOUR_LINK)
 - **Email:** vamsiraj7826@gmail.com
-- **Resume:** [View Resume]([https://github.com/YOUR_USERNAME](https://github.com/dx-sai/venkatasaivamsirajana/blob/main/resume))
+- **Resume:** [resume]([https://github.com/YOUR_USERNAME](https://github.com/dx-sai/venkatasaivamsirajana/blob/main/resume))
 
 ---
 

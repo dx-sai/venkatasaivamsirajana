@@ -1,4 +1,4 @@
-# venkatasaivamsirajana
+# Venkata Sai Vamsi Rajana
 # Hi, I'm Vamsi Rajana 👋
 
 **Full Stack Engineer | Java | Spring Boot | REST APIs | SQL | AWS**
